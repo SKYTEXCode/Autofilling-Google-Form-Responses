@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script automates the attendance process for students using Selenium, a web testing library. It is designed to fill out a Google Form with attendance-related information such as student name, ID, phone number, and details about the course attended.
+This Python script automates the attendance process for students using Selenium, a Python web testing library. It is designed to automatically fill out a certain Google Form link with attendance-related information such as student name, ID, phone number, and details about the course attended.
 
 ## Features
 
@@ -12,7 +12,7 @@ This Python script automates the attendance process for students using Selenium,
 
 ## Prerequisites
 
-Before running the script, ensure you have the following:
+Before running the script, please ensure you have the following:
 
 - Python installed on your machine.
 - Required Python libraries: Selenium.
@@ -48,4 +48,5 @@ Feel free to contribute to the project by submitting issues or pull requests. Yo
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-Happy automating!
+
+**Happy automating!**
